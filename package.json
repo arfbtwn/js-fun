@@ -1,0 +1,25 @@
+{
+  "name": "js-fun",
+  "version": "0.0.1",
+  "description": "Fun JS Stuff",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfbtwn/js-fun.git"
+  },
+  "author": "Nicholas Little <arealityfarbetween@googlemail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arfbtwn/js-fun/issues"
+  },
+  "homepage": "https://github.com/arfbtwn/js-fun#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
